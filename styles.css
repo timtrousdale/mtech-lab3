@@ -1,0 +1,31 @@
+body {
+    font-family: Verdana, sans-serif;
+    font-size: 1.2em;
+}
+
+div#header, div#footer {
+    padding: 12px;
+    color: white;
+    background-color: black;
+}
+
+div#content {
+    margin: 6px;
+    padding: 12px;
+    background-color: lightgrey;
+}
+
+div.article {
+    margin: 6px;
+    padding: 12px;
+    background-color: white;
+}
+
+div#menu ul {
+    padding: 0;
+}
+
+div#menu ul li {
+    display: inline;
+    margin: 8px;
+}
