@@ -9,13 +9,13 @@ header, div#footer {
     background-color: black;
 }
 
-div#content {
+section.content {
     margin: 6px;
     padding: 12px;
     background-color: lightgrey;
 }
 
-div.article {
+article {
     margin: 6px;
     padding: 12px;
     background-color: white;
