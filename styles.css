@@ -21,11 +21,12 @@ div.article {
     background-color: white;
 }
 
-div#menu ul {
+/* Added menu to styling to get rid of default padding that changed layout from original*/
+menu, menu ul {
     padding: 0;
 }
 
-div#menu ul li {
+menu ul li {
     display: inline;
     margin: 8px;
 }
